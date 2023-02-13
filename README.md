@@ -14,3 +14,8 @@ La branche `master` est la branche principale de ce répertoire.
 
 ## Branches défuntes :
 - **nvlle_branche** (DÉFUNTE) = une autre branche.
+
+# À faire :
+- Une première tâche
+- Une deuxième tâche
+- Une troisième tâche
