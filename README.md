@@ -3,3 +3,4 @@ L'objet de ce dépôt est de pouvoir tester la plupart des commandes importantes
 
 # Branches associées :
 - **master** = branche principale.
+- **nvlle_branche** = première branche pour tester les commandes.
