@@ -6,4 +6,5 @@ La branche `master` est la branche principale de ce répertoire.
 
 # Branches associées :
 - **master** = branche principale.
-- **nvlle_branche** = une autre branche.
+- **nvlle_branche** (DÉFUNTE) = une autre branche.
+- **branche_README** = une branche pour tester différentes stratégies README
