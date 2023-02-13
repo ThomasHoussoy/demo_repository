@@ -8,3 +8,8 @@ La branche `branche_README` est une branche expérimentale pour tester différen
 - **master** = branche principale.
 - **nvlle_branche** (DÉFUNTE) = une autre branche.
 - **branche_README** = une branche pour tester différentes stratégies README
+
+# À faire :
+- Une première tâche
+- Une deuxième tâche
+- Une troisième tâche
