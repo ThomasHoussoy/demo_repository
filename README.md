@@ -1,8 +1,8 @@
 # demo_repository : un répertoire d'entraînement à Git
 L'objet de ce dépôt est de pouvoir tester la plupart des commandes importantes de Git, logiciel de contrôle de version, et établir les meilleures pratiques pour un usage plus régulier de ce système.
 
-# Brance actuelle : branche_README
-La branche `branche_README` est une branche expérimentale pour tester différentes manières de gérer les créations de branches, notamment avec le fait de renseigner le README en fonction de ces décisions.
+# Brance actuelle : master
+La branche `master` est la branche principale de ce répertoire.
 
 # Branches associées :
 - **master** = branche principale.
